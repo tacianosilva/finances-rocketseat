@@ -1,1 +1,7 @@
-Projeto da Maratona Discovery da Rocketseat
+# Finances App
+
+Projeto da Maratona Discover da Rocketseat.
+
+## vscode extension
+
+* Live Server
